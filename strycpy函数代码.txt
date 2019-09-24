@@ -8,11 +8,8 @@ void my_strcpy(char *dest, char *src)
         *dest++ = *src++;
     }
 
-    *dest = *src;         //陆芦'\0'驴陆卤麓鹿媒脠楼
+    *dest = *src;        
 /*
 远程编辑
-*/
-/*
-本地编辑
 */
 }
