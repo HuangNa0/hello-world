@@ -10,4 +10,7 @@ void my_strcpy(char *dest, char *src)
 
     *dest = *src;         //将'\0'拷贝过去
 
+/*
+本地编辑
+*/
 }
