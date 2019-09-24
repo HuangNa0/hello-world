@@ -8,7 +8,10 @@ void my_strcpy(char *dest, char *src)
         *dest++ = *src++;
     }
 
-    *dest = *src;         //½«'\0'¿½±´¹ýÈ¥
+    *dest = *src;         //Â½Â«'\0'Â¿Â½Â±Â´Â¹Ã½ÃˆÂ¥
+/*
+è¿œç¨‹edit
+*/
 
 /*
 ±¾µØ±à¼­
