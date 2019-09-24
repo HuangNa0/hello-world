@@ -1,18 +1,12 @@
 void my_strcpy(char *dest, char *src)
-
 {
-    
     while (*src != '\0')
 
     {
         *dest++ = *src++;
     }
 
-    *dest = *src;         //½«'\0'¿½±´¹ýÈ¥
-/*
-远程edit
-*/
-
+    *dest = *src; 
 /*
 ���ر༭
 */
